@@ -1,0 +1,57 @@
+/* header */
+h1{
+  color: rgb(58, 23, 163);
+  font-size: 30px;
+}
+
+
+.flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.a{
+margin: 15px; ;
+}
+
+.b{
+  display: flex;
+  justify-content: ;
+}
+
+.r{
+margin: 15px;
+color:rgb(58, 23, 163)  ;
+font-family: 'GulimChe';
+font-size: 20PX;
+
+
+}
+
+/* main */
+
+img{
+  margin-top: 200px;
+  float: right;
+  width: 900px;
+  
+}
+
+.box1{
+  height: 10px;
+  width: 1000px;
+  background-color:blue;
+  padding-top: 550px;
+  margin-bottom:500px;
+}
+h2{
+  margin-top: 500px;
+  font-size: 50px;
+}
+
+
+
+
+
+
